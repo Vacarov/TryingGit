@@ -3,5 +3,5 @@ package com.company;
 /**
  * Created by wergin on 07-Jul-17.
  */
-public class MonsterLooser {
+public class MonsterLooser extends Looser{
 }
